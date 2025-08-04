@@ -25,6 +25,7 @@ export default defineConfig({
 										{ label: 'Homepage Content', slug: 'guides/cms/entries/homepage' },
 										{ label: 'Resource Page Content', slug: 'guides/cms/entries/resources' },
 										{label: 'Hayden\'s Journal Page Content', slug: 'guides/cms/entries/journal'},
+										{label: 'Guidelines & TOC Rules', slug: 'guides/cms/entries/guidelines_and_toc' },
 									]
 								},
 							],
